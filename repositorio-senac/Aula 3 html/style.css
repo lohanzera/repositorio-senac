@@ -1,0 +1,15 @@
+#primeiroBotao{
+    background-color: #015aff;/* Define a cor de fundo do botão */
+    color: white; /* Define a cor do texto dentro do botão */
+    padding: 20px 10px; /* Espaçamento interno em 15px e na vertical 30px */
+    text-align: center; /* Alinhamento do texto para central */
+    font-size: 14px; /* Tamanho da fonte para 16pc */
+    border-radius: 20px; /* Arredondamento da vorda em 12px */
+    cursor: pointer; /* Mudança do cursor para mãozinha */
+    transition: background-color 0.3s ease; /* Adiciona uma transição suava */
+}
+
+/* Estilização ao passar o mouse o sobre o botão */
+#primeiroBotao:hover{
+    background-color:  rgb(111, 0, 139); /* Muda a cor de fundo ao passar o mouse em cima */
+}
