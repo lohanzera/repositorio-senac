@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css2?family=Helvetica:ital,wght@0,400;0,500;0,700;1,400&display=swap);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+
+}
+
+
+.container{
+    position: relative;
+    width: 280px;
+    height: 380px;
+    background: #040404;
+    box-shadow: 0 15px 18px rgba(179, 179, 179, 0.6)
+}
